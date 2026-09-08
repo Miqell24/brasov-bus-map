@@ -135,55 +135,6 @@
       ]
     },
     {
-      "line": "2B",
-      "mode": "bus",
-      "color": "#0059a9",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "Liviu Rebreanu - Rulmentul",
-          "variants": 1,
-          "tripCount": 54,
-          "stops": 14,
-          "lengthKm": 6.95,
-          "stats": {
-            "observations": 349,
-            "matched": 349,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 0.00017013406415988767,
-            "roundaboutSegs": 84,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "Liviu Rebreanu - Livada Poștei",
-          "variants": 1,
-          "tripCount": 54,
-          "stops": 13,
-          "lengthKm": 6.48,
-          "stats": {
-            "observations": 325,
-            "matched": 325,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 0.000675368953052271,
-            "roundaboutSegs": 29,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ]
-    },
-    {
       "line": "3",
       "mode": "bus",
       "color": "#149a3f",
@@ -226,153 +177,6 @@
             "rawMeters": 0,
             "meanError": 7.962494442825755e-14,
             "roundaboutSegs": 36,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ]
-    },
-    {
-      "line": "4",
-      "mode": "bus",
-      "color": "#0059a9",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "Terminal Gară",
-          "variants": 1,
-          "tripCount": 137,
-          "stops": 10,
-          "lengthKm": 5.9,
-          "stats": {
-            "observations": 296,
-            "matched": 296,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 0.012675940042921243,
-            "roundaboutSegs": 46,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "Tocile",
-          "variants": 1,
-          "tripCount": 136,
-          "stops": 12,
-          "lengthKm": 5.5,
-          "stats": {
-            "observations": 276,
-            "matched": 276,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 6.427827966862507e-14,
-            "roundaboutSegs": 21,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ]
-    },
-    {
-      "line": "5",
-      "mode": "bus",
-      "color": "#0059a9",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "Roman",
-          "variants": 1,
-          "tripCount": 172,
-          "stops": 17,
-          "lengthKm": 8.64,
-          "stats": {
-            "observations": 433,
-            "matched": 433,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 7.427636181009287e-14,
-            "roundaboutSegs": 36,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "Memorandului - Stadionul Municipal",
-          "variants": 1,
-          "tripCount": 174,
-          "stops": 16,
-          "lengthKm": 8.46,
-          "stats": {
-            "observations": 424,
-            "matched": 424,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 6.947056536546907e-14,
-            "roundaboutSegs": 55,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ]
-    },
-    {
-      "line": "5M",
-      "mode": "bus",
-      "color": "#0059a9",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "Stadionul Municipal",
-          "variants": 1,
-          "tripCount": 14,
-          "stops": 7,
-          "lengthKm": 7.8,
-          "stats": {
-            "observations": 261,
-            "matched": 261,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 1.7009299951426398e-13,
-            "roundaboutSegs": 13,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "Măgurele",
-          "variants": 1,
-          "tripCount": 14,
-          "stops": 9,
-          "lengthKm": 12.16,
-          "stats": {
-            "observations": 532,
-            "matched": 532,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 1.6686380254102541e-13,
-            "roundaboutSegs": 39,
             "extStart": 0,
             "extEnd": 0
           }
@@ -527,55 +331,6 @@
       ]
     },
     {
-      "line": "9",
-      "mode": "bus",
-      "color": "#0059a9",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "Rulmentul",
-          "variants": 1,
-          "tripCount": 77,
-          "stops": 14,
-          "lengthKm": 7.19,
-          "stats": {
-            "observations": 372,
-            "matched": 372,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 3.554628888330852e-14,
-            "roundaboutSegs": 87,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "Stadionul Municipal",
-          "variants": 1,
-          "tripCount": 79,
-          "stops": 14,
-          "lengthKm": 6.58,
-          "stats": {
-            "observations": 330,
-            "matched": 330,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 0.00022926689222286246,
-            "roundaboutSegs": 46,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ]
-    },
-    {
       "line": "10",
       "mode": "bus",
       "color": "#149a3f",
@@ -618,6 +373,349 @@
             "rawMeters": 0,
             "meanError": 0.05012170314935371,
             "roundaboutSegs": 36,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "31",
+      "mode": "bus",
+      "color": "#149a3f",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Valea Cetății",
+          "variants": 1,
+          "tripCount": 117,
+          "stops": 13,
+          "lengthKm": 5.35,
+          "stats": {
+            "observations": 269,
+            "matched": 269,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 8.555014076917549e-14,
+            "roundaboutSegs": 13,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Livada Poștei",
+          "variants": 1,
+          "tripCount": 118,
+          "stops": 13,
+          "lengthKm": 6.13,
+          "stats": {
+            "observations": 308,
+            "matched": 308,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 7.670447700817401e-14,
+            "roundaboutSegs": 23,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "33",
+      "mode": "bus",
+      "color": "#149a3f",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Valea Cetății",
+          "variants": 1,
+          "tripCount": 34,
+          "stops": 10,
+          "lengthKm": 3.75,
+          "stats": {
+            "observations": 189,
+            "matched": 189,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 6.651889441158385e-14,
+            "roundaboutSegs": 34,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Roman",
+          "variants": 1,
+          "tripCount": 33,
+          "stops": 9,
+          "lengthKm": 3.63,
+          "stats": {
+            "observations": 183,
+            "matched": 183,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 6.496390726949487e-14,
+            "roundaboutSegs": 11,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "2B",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Liviu Rebreanu - Rulmentul",
+          "variants": 1,
+          "tripCount": 54,
+          "stops": 14,
+          "lengthKm": 6.95,
+          "stats": {
+            "observations": 349,
+            "matched": 349,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.00017013406415988767,
+            "roundaboutSegs": 84,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Liviu Rebreanu - Livada Poștei",
+          "variants": 1,
+          "tripCount": 54,
+          "stops": 13,
+          "lengthKm": 6.48,
+          "stats": {
+            "observations": 325,
+            "matched": 325,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.000675368953052271,
+            "roundaboutSegs": 29,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "4",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Terminal Gară",
+          "variants": 1,
+          "tripCount": 137,
+          "stops": 10,
+          "lengthKm": 5.9,
+          "stats": {
+            "observations": 296,
+            "matched": 296,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.012675940042921243,
+            "roundaboutSegs": 46,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Tocile",
+          "variants": 1,
+          "tripCount": 136,
+          "stops": 12,
+          "lengthKm": 5.5,
+          "stats": {
+            "observations": 276,
+            "matched": 276,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 6.427827966862507e-14,
+            "roundaboutSegs": 21,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "5",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Roman",
+          "variants": 1,
+          "tripCount": 172,
+          "stops": 17,
+          "lengthKm": 8.64,
+          "stats": {
+            "observations": 433,
+            "matched": 433,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 7.427636181009287e-14,
+            "roundaboutSegs": 36,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Memorandului - Stadionul Municipal",
+          "variants": 1,
+          "tripCount": 174,
+          "stops": 16,
+          "lengthKm": 8.46,
+          "stats": {
+            "observations": 424,
+            "matched": 424,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 6.947056536546907e-14,
+            "roundaboutSegs": 55,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "5M",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Stadionul Municipal",
+          "variants": 1,
+          "tripCount": 14,
+          "stops": 7,
+          "lengthKm": 7.8,
+          "stats": {
+            "observations": 261,
+            "matched": 261,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.7009299951426398e-13,
+            "roundaboutSegs": 13,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Măgurele",
+          "variants": 1,
+          "tripCount": 14,
+          "stops": 9,
+          "lengthKm": 12.16,
+          "stats": {
+            "observations": 532,
+            "matched": 532,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.6686380254102541e-13,
+            "roundaboutSegs": 39,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "9",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Rulmentul",
+          "variants": 1,
+          "tripCount": 77,
+          "stops": 14,
+          "lengthKm": 7.19,
+          "stats": {
+            "observations": 372,
+            "matched": 372,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 3.554628888330852e-14,
+            "roundaboutSegs": 87,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Stadionul Municipal",
+          "variants": 1,
+          "tripCount": 79,
+          "stops": 14,
+          "lengthKm": 6.58,
+          "stats": {
+            "observations": 330,
+            "matched": 330,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.00022926689222286246,
+            "roundaboutSegs": 46,
             "extStart": 0,
             "extEnd": 0
           }
@@ -1360,55 +1458,6 @@
       ]
     },
     {
-      "line": "31",
-      "mode": "bus",
-      "color": "#149a3f",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "Valea Cetății",
-          "variants": 1,
-          "tripCount": 117,
-          "stops": 13,
-          "lengthKm": 5.35,
-          "stats": {
-            "observations": 269,
-            "matched": 269,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 8.555014076917549e-14,
-            "roundaboutSegs": 13,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "Livada Poștei",
-          "variants": 1,
-          "tripCount": 118,
-          "stops": 13,
-          "lengthKm": 6.13,
-          "stats": {
-            "observations": 308,
-            "matched": 308,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 7.670447700817401e-14,
-            "roundaboutSegs": 23,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ]
-    },
-    {
       "line": "32",
       "mode": "bus",
       "color": "#0059a9",
@@ -1451,55 +1500,6 @@
             "rawMeters": 0,
             "meanError": 4.921768560974424e-14,
             "roundaboutSegs": 93,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ]
-    },
-    {
-      "line": "33",
-      "mode": "bus",
-      "color": "#149a3f",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "Valea Cetății",
-          "variants": 1,
-          "tripCount": 34,
-          "stops": 10,
-          "lengthKm": 3.75,
-          "stats": {
-            "observations": 189,
-            "matched": 189,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 6.651889441158385e-14,
-            "roundaboutSegs": 34,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "Roman",
-          "variants": 1,
-          "tripCount": 33,
-          "stops": 9,
-          "lengthKm": 3.63,
-          "stats": {
-            "observations": 183,
-            "matched": 183,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 6.496390726949487e-14,
-            "roundaboutSegs": 11,
             "extStart": 0,
             "extEnd": 0
           }
